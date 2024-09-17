@@ -1,3 +1,5 @@
+Hi, my name is Martin.
+
 # 💫 About Me:
 Hi! I'm a passionate data enthusiast with a background in engineering in Information Technology, now diving deep into the world of data science. My journey in data science began with an eagerness to unlock insights from data and apply them to solve real-world problems.<br><br>I'm currently honing my skills in data analysis, machine learning, and visualization, continuously learning new tools and technologies to stay at the forefront of this exciting field. I enjoy working on projects that combine my technical background with my newfound passion for data-driven decision-making.
 
